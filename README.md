@@ -1,2 +1,4 @@
 # react-user-directory-assignment
 A simple React application that fetches and displays users from a public API with search, responsive layout, and a details modal.
+A React-based user directory application that fetches data from the JSONPlaceholder API and displays user information with search filtering, responsive UI, and a modal for detailed user profiles. Built using functional components, hooks, and clean modern React practices.
+This project is a modern React application that fetches and displays user data from the JSONPlaceholder API. It includes a searchable user list, responsive layout, and a details modal showing phone, website, and address information. The project follows React best practices using functional components, hooks, state management, and organized component structure. Suitable for learning API integration, UI design, and component architecture in React.
